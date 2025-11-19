@@ -1,9 +1,0 @@
-Steps to run the code 
-
-1. Open node js command prompt
-
-2. type "C:\Users\tejas\OneDrive\Desktop\yoga_pose_detector_main\frontend" and hit enter 
-
-3. type "set NODE_OPTIONS=--openssl-legacy-provider" and hit enter
-
-4. type npm start and its done 
